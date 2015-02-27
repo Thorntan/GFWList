@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "www.cocoacontrols.com":1,
   "ggpht.com":1,
   "gimpshop.com": 1, 
   "directcreative.com": 1, 
@@ -555,6 +556,7 @@ var domains = {
   "fanswong.com": 1, 
   "sexinsex.net": 1, 
   "boxun.com": 1, 
+  "box.com": 1,
   "tiandixing.org": 1, 
   "oizoblog.com": 1, 
   "exploader.net": 1, 
@@ -842,6 +844,7 @@ var domains = {
   "wforum.com": 1, 
   "gaeproxy.googlecode.com": 1, 
   "google.com": 1, 
+  "google.cn": 1, 
   "bestvpnservice.com": 1, 
   "killwall.com": 1, 
   "tchrd.org": 1, 
@@ -1256,6 +1259,7 @@ var domains = {
   "backpackers.com.tw": 1, 
   "uncyclopedia.info": 1, 
   "helloandroid.com": 1, 
+  "android.com": 1, 
   "greatfirewallofchina.net": 1, 
   "tibetanyouthcongress.org": 1, 
   "alexdong.com": 1, 
