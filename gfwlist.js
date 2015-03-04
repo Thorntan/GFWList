@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "goo.gl":1,
   "www.cocoacontrols.com":1,
   "ggpht.com":1,
   "gimpshop.com": 1, 
