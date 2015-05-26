@@ -11,6 +11,7 @@ var domains = {
   "speedpluss.org": 1, 
   "mingpaovan.com": 1, 
   "malwaretech.com": 1,
+  "w3schools.com": 1,
   "wikinews.org": 1, 
   "joachims.org": 1, 
   "maiio.net": 1, 
