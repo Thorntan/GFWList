@@ -7,6 +7,7 @@ var domains = {
   "ggpht.com":1,
   "wistia.net": 1,
   "chrome.com":1,
+  "mega.co.nz":1,
   "loggly.com": 1,
   "wistia.com": 1,
   "bot24.com": 1,
