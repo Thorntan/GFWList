@@ -11,6 +11,7 @@ var domains = {
   "wp.com":1,
   "gravatar.com":1,
   "angularjs.org":1,
+  "cked.me": 1,
   "wistia.net": 1,
   "chrome.com":1,
   "tw.gigacircle.com":1,
