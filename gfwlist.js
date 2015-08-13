@@ -6,6 +6,7 @@ var domains = {
   "www.cocoacontrols.com":1,
   "ggpht.com":1,
   "openwall.com":1,
+  "dontneedcoffee.com":1,
   "opensecurityresearch.com":1,
   "blogspot.co.uk":1,
   "wp.com":1,
