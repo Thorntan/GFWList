@@ -7,6 +7,7 @@ var domains = {
   "ggpht.com":1,
   "malwaremustdie.org":1,
   "openwall.com":1,
+  "gwtproject.org":1,
   "unblocked.pw":1,
   "guidepointsecurity.com": 1,
   "blogspot.sg": 1,
