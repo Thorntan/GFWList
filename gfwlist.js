@@ -5,7 +5,11 @@ var domains = {
   "goo.gl":1,
   "www.cocoacontrols.com":1,
   "ggpht.com":1,
+  "malwaremustdie.org":1,
   "openwall.com":1,
+  "unblocked.pw":1,
+  "guidepointsecurity.com": 1,
+  "blogspot.sg": 1,
   "dontneedcoffee.com":1,
   "opensecurityresearch.com":1,
   "blogspot.co.uk":1,
@@ -2470,7 +2474,8 @@ var domains = {
   "lookatgame.com": 1,
   "darpa.mil": 1,
   "wtfpeople.com": 1,
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+  "labofapenetrationtester.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
