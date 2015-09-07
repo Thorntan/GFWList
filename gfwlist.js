@@ -3,6 +3,7 @@
 
 var domains = {
   "goo.gl":1,
+  "speakerdeck.com":1,
   "www.cocoacontrols.com":1,
   "ggpht.com":1,
   "malwaremustdie.org":1,
