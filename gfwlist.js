@@ -3,10 +3,13 @@
 
 var domains = {
   "goo.gl":1,
+  "synack.com":1, 
+  "securiteam.com":1,
   "speakerdeck.com":1,
   "www.cocoacontrols.com":1,
   "ggpht.com":1,
   "adcash.com":1,
+  "ero-video.net":1,
   "ioactive.com":1,
   "malwaremustdie.org":1,
   "openwall.com":1,
