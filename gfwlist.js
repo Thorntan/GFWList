@@ -3,10 +3,14 @@
 
 var domains = {
   "goo.gl":1,
+  "trankynam.com":1,
   "synack.com":1, 
   "securiteam.com":1,
   "speakerdeck.com":1,
+  "randygaul.net":1,
+  "blogspot.ru":1,
   "www.cocoacontrols.com":1,
+  "cloudflare.com":1,
   "ggpht.com":1,
   "adcash.com":1,
   "ero-video.net":1,
